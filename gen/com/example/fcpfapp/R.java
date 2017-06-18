@@ -31,12 +31,12 @@ public final class R {
         public static final int TextViewJGYi=0x7f080023;
         public static final int action_settings=0x7f08002a;
         public static final int buttonJiSuan=0x7f080027;
-        public static final int buttonclean=0x7f080028;
         public static final int buttonexit=0x7f080029;
         public static final int qy1=0x7f080001;
         public static final int qyBin=0x7f08000c;
         public static final int qyDin=0x7f08000d;
         public static final int qyYi=0x7f08000b;
+        public static final int qybuttonclean=0x7f080028;
         public static final int qyed=0x7f080006;
         public static final int qyedthnBin=0x7f080012;
         public static final int qyedthnDing=0x7f080013;

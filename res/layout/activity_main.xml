@@ -300,7 +300,7 @@
                 android:text="计算" />
 
             <Button
-                android:id="@+id/buttonclean"
+                android:id="@+id/qybuttonclean"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"

@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
 		/*findObjeck();*/
 		calculate_btn=(Button)findViewById(R.id.buttonJiSuan);
 		exit_btn=(Button)findViewById(R.id.buttonexit);
-		clean_btn=(Button)findViewById(R.id.buttonclean);
+		clean_btn=(Button)findViewById(R.id.qybuttonclean);
 		qyresult_view[0]=(TextView)findViewById(R.id.TextViewJGJia);
 		qyresult_view[1]=(TextView)findViewById(R.id.TextViewJGYi);
 		qyresult_view[2]=(TextView)findViewById(R.id.TextViewJGBin);
